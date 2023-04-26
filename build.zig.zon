@@ -1,0 +1,13 @@
+.{
+    .name = "range-v3",
+    .version = "0.13.0",
+    .paths = .{
+        "include",
+        "build.zig",
+        "build.zig;zon",
+        "test",
+        "example",
+        "README.md",
+        "LICENSE.txt",
+    },
+}

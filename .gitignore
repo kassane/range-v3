@@ -239,3 +239,6 @@ $RECYCLE.BIN/
 \#*#
 .#*
 /CMakeSettings.json
+
+# Zig build
+*zig-*/
